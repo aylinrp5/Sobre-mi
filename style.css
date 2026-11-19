@@ -38,4 +38,5 @@ footer{text-align:center;padding:40px;font-size:.9rem;color:var(--muted);border-
  .hero-img{grid-column:1;grid-row:auto;max-width:320px}
  .hero .btn{margin-bottom:10px}
  .gal{columns:1}
+ @media(min-width:701px){#proyectos.split{grid-template-columns:1.2fr 1fr}}
 }
