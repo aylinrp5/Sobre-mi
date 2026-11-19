@@ -1,24 +1,10 @@
-# Portfolio personal de Aylin Romero
+# Web de Aylin
 
-Web de una sola página hecha con HTML, CSS y JavaScript. Incluye fotografías personales.
+## Subirla a GitHub Pages
+1. En github.com: **New repository** → nombre `aylin-web` (o `TU-USUARIO.github.io` para tener la URL más corta) → Public → Create.
+2. **Add file → Upload files** y arrastra TODO el contenido de esta carpeta (`index.html`, `style.css`, carpeta `img`).
+3. **Settings → Pages → Branch: main / (root) → Save**.
+4. En 1-2 minutos estará en `https://TU-USUARIO.github.io/aylin-web/`.
 
-## Archivos
-- `index.html`: estructura y contenido.
-- `styles.css`: diseño adaptable a móvil y ordenador.
-- `script.js`: menú móvil.
-- `images/`: fotografías utilizadas.
-
-## Antes de publicar
-- Cambia `TU_CORREO@EJEMPLO.COM` en `index.html` por tu correo, o modifica el enlace de contacto.
-- Revisa los textos y asegúrate de que quieres compartir públicamente las fotos.
-- Para cambiar una foto, sustituye el archivo correspondiente dentro de `images/` manteniendo el mismo nombre.
-
-## Publicar con GitHub Pages gratis
-1. Crea un repositorio público en GitHub, por ejemplo `sobre-mi`.
-2. Sube `index.html`, `styles.css`, `script.js`, `README.md` y toda la carpeta `images`.
-3. Ve a **Settings → Pages**.
-4. En **Build and deployment**, elige **Deploy from a branch**.
-5. Selecciona `main` y `/ (root)`, y guarda.
-6. GitHub te mostrará el enlace de tu web en esa misma sección.
-
-La dirección tendrá un formato parecido a `https://TU-USUARIO.github.io/sobre-mi/`.
+## Editar
+Cambia el texto en `index.html` y los colores en `style.css` (variables al principio).
